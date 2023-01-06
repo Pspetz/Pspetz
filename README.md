@@ -25,7 +25,7 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pspetz&show_icons=true&theme=radical" />
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pspetz)](https://github.com/anuraghazra/github-readme-stats)" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pspetz)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
