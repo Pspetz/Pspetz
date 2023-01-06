@@ -28,7 +28,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pspetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only) 
+![snake gif](https://github.com/Pspetz/Pspetz/blob/output/github-contribution-grid-snake.gif)
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
