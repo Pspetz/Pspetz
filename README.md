@@ -24,7 +24,7 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Pspetz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pspetz&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pspetz&theme=noctis_minimus&layout=compact" />
 </a>
 
