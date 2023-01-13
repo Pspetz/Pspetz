@@ -22,8 +22,8 @@
 <img src="https://miro.medium.com/max/319/1*-YhVA6qN4e7zjlxzpZ5Zdg.png" ,  alt="bash" width="45" height="45"/>
 
 </p>
-
-<--! <h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pspetz&show_icons=true&theme=radical" />  
 </a>
