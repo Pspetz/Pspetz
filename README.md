@@ -23,7 +23,7 @@
 
 </p>
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<!--
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pspetz&show_icons=true&theme=radical" />  
 </a>
@@ -33,4 +33,4 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-!-->
+
