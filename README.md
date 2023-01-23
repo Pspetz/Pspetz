@@ -32,7 +32,6 @@
     </a>        </td>
     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pspetz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-    <td>Cell 3</td>
   </tr>
   <tr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
